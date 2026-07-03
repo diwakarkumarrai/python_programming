@@ -4,4 +4,4 @@ num2 = float(input("Enter second number: "))
 
 # Calculate sum
 sum = num1 + num2
-print("the sum of two number is: ", sum)
+print( sum)
